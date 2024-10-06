@@ -1,12 +1,12 @@
-import React from "react";
-import "./index.css";
+import React from 'react'
+import Login from './Frontend/Auth/Login'
 
 function App() {
   return (
     <>
-      <div>App</div>
+    <Login />
     </>
-  );
+  )
 }
 
-export default App;
+export default App
