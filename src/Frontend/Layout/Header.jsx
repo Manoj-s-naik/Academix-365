@@ -1,9 +1,10 @@
-import React from 'react'
+import React from 'react';
 
 function Header() {
   return (
-    <div>Header</div>
-  )
+    <header className="bg-gray-700 h-[7rem] w-full ">
+    </header>
+  );
 }
 
-export default Header
+export default Header;
